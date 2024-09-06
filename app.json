@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "workaholic",
-    "slug": "workaholic"
+    "slug": "workaholic",
+    "android": {
+      "package": "com.anonymous.workaholic"
+    }
   }
 }
